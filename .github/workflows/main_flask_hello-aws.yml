@@ -15,7 +15,7 @@ on:
 
 env:
   AWS_REGION: "ap-south-1"
-  ECR_REGISTRY: "783764579443.dkr.ecr.ap-south-1.amazonaws.com"
+  ECR_REGISTRY: "376572378342.dkr.ecr.ap-south-1.amazonaws.com"
   ECR_REPOSITORY: "flask"
   ECS_SERVICE: "flask-service"
   ECS_CLUSTER: "demo"
